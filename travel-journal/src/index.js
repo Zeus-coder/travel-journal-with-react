@@ -22,7 +22,6 @@ function App(){
             <>
                 {datas}
             </>
-            <h1>My Name</h1>
         </>
     )
 }

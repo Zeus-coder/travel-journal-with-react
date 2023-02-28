@@ -33,7 +33,9 @@ h5{
   flex-wrap: wrap;
   align-items: center;
   gap: 20px;
-  border: 2px solid red;
+  border: 1px solid #F55A5A;
+  border-radius: 6px;
+  padding: 20px;
   margin: 100px;
 }
 
